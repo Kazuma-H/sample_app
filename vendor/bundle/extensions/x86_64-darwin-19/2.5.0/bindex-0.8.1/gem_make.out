@@ -1,0 +1,15 @@
+current directory: /Users/hanadakazuma/rails_app/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/hanadakazuma/.rbenv/versions/2.5.8/bin/ruby -r ./siteconf20201006-31438-2hnp0a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hanadakazuma/rails_app/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/hanadakazuma/rails_app/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/hanadakazuma/rails_app/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20201006-31438-1ob2nz7/skiptrace/internal
